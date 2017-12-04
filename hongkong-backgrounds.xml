@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Bay of HongKong</name>
+    <filename>/usr/share/backgrounds/hongkong/126189-BayOfHK.jpg</filename>
+    <options>stretched</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Lion Rock</name>
+    <filename>/usr/share/backgrounds/hongkong/16641980795_c5a9021a52_h.jpg</filename>
+    <options>stretched</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Blake's Bauhinia</name>
+    <filename>/usr/share/backgrounds/hongkong/3488669309_c1b174c31f_o.jpg</filename>
+    <options>stretched</options>
+  </wallpaper>
+  <wallpaper>
+    <name>HongKong Night</name>
+    <filename>/usr/share/backgrounds/hongkong/night-2291750_1920.jpg</filename>
+    <options>stretched</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Fishing Junk</name>
+    <filename>/usr/share/backgrounds/hongkong/vintage_hong_kong___fishing_junk_by_yesterdays_paper-dbcf0hh.jpg</filename>
+    <options>stretched</options>
+  </wallpaper>
+</wallpapers>
